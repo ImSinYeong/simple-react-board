@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/simple-react-board/static/css/main.71e4264f.css",
+    "main.js": "/simple-react-board/static/js/main.be0f4145.js",
+    "index.html": "/simple-react-board/index.html",
+    "main.71e4264f.css.map": "/simple-react-board/static/css/main.71e4264f.css.map",
+    "main.be0f4145.js.map": "/simple-react-board/static/js/main.be0f4145.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.71e4264f.css",
+    "static/js/main.be0f4145.js"
+  ]
+}
